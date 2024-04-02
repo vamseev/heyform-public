@@ -1,0 +1,1550 @@
+repo_name: vamseev/heyform-public
+report_id: 773fd35cbeca618e6c7ff2dd741ffc02
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-02T17:37:39+00:00'
+requested_by: iMuFeng
+provider: github
+branch: main
+detected_tools_count: 109
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/vamseev/heyform-public
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/vamseev/heyform-public
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/vamseev/heyform-public
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-04-02 00:07:49.000000000 Z
+- name: MobX
+  description: Simple, scalable state management
+  website_url: https://github.com/mobxjs/mobx
+  version: 6.3.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5302/17475736.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: NestJS
+  description: A progressive Node.js framework for building efficient and scalable
+    server-side applications by @kammysliwiec.
+  website_url: nestjs.com
+  version: 7.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/8747/4zsOyxko_400x400.jpg
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 18.2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.22.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.6.3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-28 10:27:53.000000000 Z
+- name: Mongoose
+  description: MongoDB object modeling designed to work in an asynchronous environment
+  website_url: http://mongoosejs.com/
+  version: 5.13.20
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Document Mapper (ODM)
+  image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-28 10:27:53.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/vamseev/heyform-public
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/.eslintrc
+  detection_source: packages/answer-utils/.eslintrc
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vamseev/heyform-public
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/.github/workflows/publish-docker-image.yml
+  detection_source: ".github/workflows/publish-docker-image.yml"
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: Istio
+  description: Open platform to connect, manage, and secure microservices, by Google,
+    IBM, and Lyft
+  website_url: https://istio.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Microservices Tools
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/pnpm-lock.yaml
+  detection_source: pnpm-lock.yaml
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 26.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: Apollo
+  description: GraphQL server for Express, Connect, Hapi, Koa and more
+  website_url: https://www.apollographql.com/
+  version: 2.26.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/5508/CyUH653y.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-04-02 00:07:49.000000000 Z
+- name: Bitdeli
+  description: Build Your Own Analytics
+  website_url: https://bitdeli.com
+  open_source: false
+  hosted_saas: true
+  category: Analytics
+  sub_category: Custom Analytics
+  image_url: https://img.stackshare.io/service/4/81d15a06ca33a8d04a5130889a50a908.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: Stripe
+  description: Payments for developers
+  website_url: https://stripe.com
+  open_source: false
+  hosted_saas: true
+  category: Payments
+  sub_category: Payment Services
+  image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: NPM Trends
+  website_url: https://www.npmtrends.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: Nodemailer
+  description: A module for Node.js applications to allow email sending
+  website_url: http://www.nodemailer.com/
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/2862/qr2-jCLr.jpg
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-28 10:27:53.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 1.6.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-28 10:27:53.000000000 Z
+- name: i18next
+  description: Internationalization-framework written in and for JavaScript
+  website_url: https://www.i18next.com/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Translation Service
+  image_url: https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: jsonwebtoken
+  description: JSON Web Token implementation
+  package_url: https://www.npmjs.com/jsonwebtoken
+  version: 8.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+  vulnerabilities:
+  - name: jsonwebtoken has insecure input validation in jwt.verify function
+    cve_id: CVE-2022-23529
+    cve_url: https://github.com/advisories/GHSA-27h2-hvpr-p74q
+    detected_date: Dec 22
+    severity: high
+    first_patched: 9.0.0
+  - name: jsonwebtoken's insecure implementation of key retrieval function could lead
+      to Forgeable Public/Private Tokens from RSA to HMAC
+    cve_id: CVE-2022-23541
+    cve_url: https://github.com/advisories/GHSA-hjrf-2m68-5959
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+  - name: jsonwebtoken vulnerable to signature validation bypass due to insecure default
+      algorithm in jwt.verify()
+    cve_id: CVE-2022-23540
+    cve_url: https://github.com/advisories/GHSA-qwph-4952-7xr6
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+  - name: 'jsonwebtoken unrestricted key type could lead to legacy keys usage '
+    cve_id: CVE-2022-23539
+    cve_url: https://github.com/advisories/GHSA-8cf7-32gw-wr33
+    detected_date: Dec 22
+    severity: moderate
+    first_patched: 9.0.0
+- name: object-path
+  description: Access deep object properties using a path
+  package_url: https://www.npmjs.com/object-path
+  version: 0.11.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17303/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/utils/package.json
+  detection_source: packages/utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in object-path
+    cve_id: CVE-2021-3805
+    cve_url: https://github.com/advisories/GHSA-8v63-cqqc-6r2c
+    detected_date: Sep 21
+    severity: high
+    first_patched: 0.11.8
+  - name: Prototype Pollution in object-path
+    cve_id: CVE-2021-23434
+    cve_url: https://github.com/advisories/GHSA-v39p-96qg-c8rf
+    detected_date: Sep 2
+    severity: moderate
+    first_patched: 0.11.6
+- name: "@nestjs/core"
+  description: Nest - modern, fast, powerful node.js web framework
+  package_url: https://www.npmjs.com/@nestjs/core
+  version: 7.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17223/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+  vulnerabilities:
+  - name: "@nestjs/core vulnerable to Information Exposure via StreamableFile pipe"
+    cve_id: CVE-2023-26108
+    cve_url: https://github.com/advisories/GHSA-4jpv-8r57-pv7j
+    detected_date: Mar 8
+    severity: moderate
+    first_patched: 9.0.5
+- name: nanoid
+  description: A tiny
+  package_url: https://www.npmjs.com/nanoid
+  version: 3.1.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/utils/package.json
+  detection_source: packages/utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+  vulnerabilities:
+  - name: Exposure of Sensitive Information to an Unauthorized Actor in nanoid
+    cve_id: CVE-2021-23566
+    cve_url: https://github.com/advisories/GHSA-qrpm-p2h7-hrv2
+    detected_date: Jan 22
+    severity: moderate
+    first_patched: 3.1.31
+- name: "@nestjs/common"
+  description: Nest - modern
+  package_url: https://www.npmjs.com/@nestjs/common
+  version: 7.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16950/default_ebf16e0c8af5e95030933d9e01479224b6665289.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: "@types/cookie-parser"
+  description: TypeScript definitions for cookie-parser
+  package_url: https://www.npmjs.com/@types/cookie-parser
+  version: 1.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18195/default_5b09e8832af55b8bf88554d45d4eb65653e6ac76.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-04-02 00:07:49.000000000 Z
+- name: "@types/ioredis"
+  description: TypeScript definitions for ioredis
+  package_url: https://www.npmjs.com/@types/ioredis
+  version: 4.17.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18175/default_0dba38f16e89e401bb4382c2d3f09881aac7fd70.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 26.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: Bryan
+  last_updated_on: 2024-04-01 23:42:28.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.17.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: "@types/mongodb"
+  description: TypeScript definitions for MongoDB
+  package_url: https://www.npmjs.com/@types/mongodb
+  version: 3.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16884/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-28 10:27:53.000000000 Z
+- name: "@types/mongoose"
+  description: TypeScript definitions for Mongoose
+  package_url: https://www.npmjs.com/@types/mongoose
+  version: 5.7.36
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16898/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-28 10:27:53.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.12.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: Bryan
+  last_updated_on: 2024-04-01 23:42:28.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: "@types/react-router-dom"
+  description: TypeScript definitions for React Router
+  package_url: https://www.npmjs.com/@types/react-router-dom
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16557/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: "@types/react-transition-group"
+  description: TypeScript definitions for react-transition-group
+  package_url: https://www.npmjs.com/@types/react-transition-group
+  version: 4.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17976/default_ddcb3fb8ca8ccaba871e88d87465cd31ce73df71.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: "@types/uuid"
+  description: TypeScript definitions for uuid
+  package_url: https://www.npmjs.com/@types/uuid
+  version: 8.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/utils/package.json
+  detection_source: packages/utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: "@types/validator"
+  description: TypeScript definitions for validator.js
+  package_url: https://www.npmjs.com/@types/validator
+  version: 13.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17698/default_52c11a434d2ce37281914a7f804e07cf95ab96f7.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: Bryan
+  last_updated_on: 2024-04-01 23:42:28.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.27.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: Bryan
+  last_updated_on: 2024-04-01 23:42:28.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.27.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: Bryan
+  last_updated_on: 2024-04-01 23:42:28.000000000 Z
+- name: apollo-server
+  description: Production ready GraphQL Server
+  package_url: https://www.npmjs.com/apollo-server
+  version: 2.26.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18230/default_2c3976088fc45d7746e80d08ccf312c0cbcccba7.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-04-02 00:07:49.000000000 Z
+- name: apollo-server-express
+  description: Production-ready Node.js GraphQL server for Express and Connect
+  package_url: https://www.npmjs.com/apollo-server-express
+  version: 2.26.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17501/default_1d2902e8f9c84259702671591379572493b9009b.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-04-02 00:07:49.000000000 Z
+- name: bcrypt
+  description: A bcrypt library for NodeJS
+  package_url: https://www.npmjs.com/bcrypt
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16526/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-04-02 00:07:49.000000000 Z
+- name: big.js
+  description: A small
+  package_url: https://www.npmjs.com/big.js
+  version: 6.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17724/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.20.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: class-transformer
+  description: Proper decorator-based transformation / serialization / deserialization
+    of plain javascript objects to class constructors
+  package_url: https://www.npmjs.com/class-transformer
+  version: 0.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17651/default_eb9caf7d7fb4d231f7e3b04a8c1fbef6fcd9fd73.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-28 10:27:53.000000000 Z
+- name: class-validator
+  description: Class-based validation with Typescript / ES6 / ES5 using decorators
+    or validation schemas
+  package_url: https://www.npmjs.com/class-validator
+  version: 0.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17583/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-28 10:27:53.000000000 Z
+- name: clone
+  description: Deep cloning of objects and arrays
+  package_url: https://www.npmjs.com/clone
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16398/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/utils/package.json
+  detection_source: packages/utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: cookie-parser
+  description: Parse HTTP request cookies
+  package_url: https://www.npmjs.com/cookie-parser
+  version: 1.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16136/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: dayjs
+  description: 2KB immutable date time library alternative to Moment.js with the same
+    modern API
+  package_url: https://www.npmjs.com/dayjs
+  version: 1.11.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16833/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: eslint-import-resolver-typescript
+  description: TypeScript .ts .tsx module resolver for `eslint-plugin-import`
+  package_url: https://www.npmjs.com/eslint-import-resolver-typescript
+  version: 2.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18380/default_d0ba753d47207ad8f04b02befcab81c50f38718f.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: Bryan
+  last_updated_on: 2024-04-01 23:42:28.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: eslint-plugin-jest
+  description: Eslint rules for Jest
+  package_url: https://www.npmjs.com/eslint-plugin-jest
+  version: 26.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.28.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 11.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: google-auth-library
+  description: Google APIs Authentication Client Library for Node.js
+  package_url: https://www.npmjs.com/google-auth-library
+  version: 6.0.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17925/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: googleapis
+  description: Google APIs Client Library for Node.js
+  package_url: https://www.npmjs.com/googleapis
+  version: 59.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16842/default_d7dbced92f420888f118516ac7144afed4acf9ca.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: got
+  description: Human-friendly and powerful HTTP request library for Node.js
+  package_url: https://www.npmjs.com/got
+  version: 11.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16258/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: graphql-tools
+  description: Useful tools to create and manipulate GraphQL schemas
+  package_url: https://www.npmjs.com/graphql-tools
+  version: 6.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16697/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: graphql-type-json
+  description: JSON scalar types for GraphQL.js
+  package_url: https://www.npmjs.com/graphql-type-json
+  version: 0.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18717/default_5ff3c2909e9193c1059b9d7c259b01b31dca9aea.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: hbs
+  description: Express.js template engine plugin for Handlebars
+  package_url: https://www.npmjs.com/hbs
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17878/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: helmet
+  description: Help secure Express/Connect apps with various HTTP headers
+  package_url: https://www.npmjs.com/helmet
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16584/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: ioredis
+  description: A robust
+  package_url: https://www.npmjs.com/ioredis
+  version: 4.17.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16522/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: js-cookie
+  description: A simple, lightweight JavaScript API for handling cookies
+  package_url: https://www.npmjs.com/js-cookie
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16441/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: json2csv
+  description: Convert JSON to CSV
+  package_url: https://www.npmjs.com/json2csv
+  version: 5.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17719/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: mime-types
+  description: The ultimate javascript content-type utility
+  package_url: https://www.npmjs.com/mime-types
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16448/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/utils/package.json
+  detection_source: packages/utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: multer
+  description: Middleware for handling `multipart/form-data`
+  package_url: https://www.npmjs.com/multer
+  version: 1.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16421/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-04-02 00:07:49.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-28 10:27:53.000000000 Z
+- name: raw-body
+  description: Get and validate the raw body of a readable stream
+  package_url: https://www.npmjs.com/raw-body
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17336/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: react-app-polyfill
+  description: Polyfills for various browsers including commonly used language features
+  package_url: https://www.npmjs.com/react-app-polyfill
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16437/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: react-copy-to-clipboard
+  description: Copy-to-clipboard React component
+  package_url: https://www.npmjs.com/react-copy-to-clipboard
+  version: 5.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17254/default_9aa9c9d4e491c9d2d70df74bfa33cf525babb7f5.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: react-i18next
+  description: Internationalization for react done right
+  package_url: https://www.npmjs.com/react-i18next
+  version: 11.16.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17777/default_65e03f67ad735337587d736d5fbc87b538eccdf7.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: react-popper
+  description: React wrapper around Popper.js
+  package_url: https://www.npmjs.com/react-popper
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17809/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.22.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: react-transition-group
+  description: A react component toolset for managing animations
+  package_url: https://www.npmjs.com/react-transition-group
+  version: 4.4.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16380/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.1.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 3.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: serve-static
+  description: Serve static files
+  package_url: https://www.npmjs.com/serve-static
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16295/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-04-02 00:07:49.000000000 Z
+- name: sharp
+  description: High performance Node.js image processing
+  package_url: https://www.npmjs.com/sharp
+  version: 0.32.6
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16806/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: slugify
+  description: Slugifies a String
+  package_url: https://www.npmjs.com/slugify
+  version: 1.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17389/default_33c3173e7d0e91f7cea0eab9883ca83b157bd4a5.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/utils/package.json
+  detection_source: packages/utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: sortablejs
+  description: JavaScript library for reorderable drag-and-drop lists on modern browsers
+    and touch devices
+  package_url: https://www.npmjs.com/sortablejs
+  version: 1.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17481/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.1.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/webapp/package.json
+  detection_source: packages/webapp/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 26.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-04-02 00:07:49.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-28 10:27:53.000000000 Z
+- name: tsconfig-paths
+  description: Load node modules according to tsconfig paths
+  package_url: https://www.npmjs.com/tsconfig-paths
+  version: 3.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16810/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/server/package.json
+  detection_source: packages/server/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 2.4.0
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 8.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/utils/package.json
+  detection_source: packages/utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
+- name: validator
+  description: String validation and sanitization
+  package_url: https://www.npmjs.com/validator
+  version: 13.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16255/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/vamseev/heyform-public/blob/main/packages/answer-utils/package.json
+  detection_source: packages/answer-utils/package.json
+  last_updated_by: mufeng
+  last_updated_on: 2024-03-20 08:39:22.000000000 Z
